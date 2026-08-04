@@ -1,0 +1,11 @@
+.DS_Store
+.claude/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+build/
+dist/
+*.egg-info/
+*.log

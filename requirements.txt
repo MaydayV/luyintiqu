@@ -2,3 +2,8 @@ faster-whisper==1.2.0
 ctranslate2==4.6.1
 numpy>=1.24,<2
 requests>=2.31,<3
+
+# Keep transitive transport/build dependencies on OSV-fixed releases.
+httpx2>=2.10.0
+httpcore2>=2.10.0
+setuptools>=84.2.1
